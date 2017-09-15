@@ -7,7 +7,6 @@ from ncm import config
 from ncm.api import CloudApi
 from ncm.downloader import download_song_by_id
 from ncm.downloader import download_song_by_song
-from ncm.downloader import format_string
 
 # load the config first
 config.load_config()
